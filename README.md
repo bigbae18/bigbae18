@@ -31,7 +31,3 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigbae18&show_icons=true&locale=en&layout=compact" alt="bigbae18" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bigbae18&show_icons=true&locale=en" alt="bigbae18" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bigbae18&" alt="bigbae18" /></p>
-
-
