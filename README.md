@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigbae18&label=Profile%20views&color=FF24b6&style=flat" alt="bigbae18" /> </p>
 <!--
 **bigbae18/bigbae18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigbae18&label=Profile%20views&color=FF24b6&style=flat" alt="bigbae18" /> </p>
 <h1 align="center">Hi 👋, I'm Adrian Pelayo!</h1>
 <h3 align="center">A passionate full-stack web developer from Barcelona, Spain</h3>
 
