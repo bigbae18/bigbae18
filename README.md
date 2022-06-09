@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigbae18&label=Profile%20views&color=FF24b6&style=flat" alt="bigbae18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bigbae18&label=Profile%20views&color=FF24b6&style=flat" alt="bigbae18" /> </p>
 <h1 align="center">Hi 👋, I'm Adrian Pelayo!</h1>
 <h3 align="center">A passionate full-stack web developer from Barcelona, Spain</h3>
 
